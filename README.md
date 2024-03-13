@@ -1,4 +1,5 @@
 ## Expo Tutorial 
+https://docs.expo.dev/tutorial/introduction/
 - [x] Introduction
 - [x] Create your first app
 - [x] Build a screen
