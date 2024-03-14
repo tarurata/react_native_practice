@@ -4,7 +4,7 @@ https://docs.expo.dev/tutorial/introduction/
 - [x] Create your first app
 - [x] Build a screen
 - [x] Use an image picker
-- [ ] Create a modal
+- [x] Create a modal
 - [ ] Add gestures
 - [ ] Take a screenshot
 - [ ] Handle platform differences
