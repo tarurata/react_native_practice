@@ -8,4 +8,4 @@ https://docs.expo.dev/tutorial/introduction/
 - [x] Add gestures
 - [x] Take a screenshot
 - [x] Handle platform differences
-- [ ] Configure status bar, splash screen and app icon
+- [x] Configure status bar, splash screen and app icon
