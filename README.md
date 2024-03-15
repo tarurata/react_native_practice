@@ -6,6 +6,6 @@ https://docs.expo.dev/tutorial/introduction/
 - [x] Use an image picker
 - [x] Create a modal
 - [x] Add gestures
-- [ ] Take a screenshot
+- [x] Take a screenshot
 - [ ] Handle platform differences
 - [ ] Configure status bar, splash screen and app icon
